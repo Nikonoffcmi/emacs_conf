@@ -1,0 +1,38 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/nikonoff/AIML/" . "3/")
+ ("/home/nikonoff/" . ".emacs.d/")
+ ("/home/" . "nikonoff/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/nikonoff/.emacs.d/"
+ "/home/nikonoff/AIML/3/"
+ "/home/nikonoff/AIML/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "firs.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/nikonoff/.emacs.d/" (26688 33144 910466 854000) "init.el" "../" "elpa/" ".emacs.local/" "tmp/" "auto-save-list/" "transient/" ".emacs.custom.el" "smex-items" "ido.last" "./")
+
+ ("/home/nikonoff/AIML/3/" (26464 13863 332646 564000) "project.py" "../" "class.py" "data_student.csv" "bees.zip" "logs/" "runs/" "confi.yaml" "bees/" "./")
+
+ ("/home/nikonoff/AIML/" (26688 29898 899860 607000) "sqlite3.c" "../" "3/" "hardln" "2/" "main2.c" "cat" "groceries - groceries.csv" "archive.zip" "main.c" "firs.py" "softln" "TV_Shows.csv" "groceries.csv" "./")
+
+ ("/home/" (26221 46448 564546 23000) "nikonoff/" "../" "./")
+
+ ("/home/nikonoff/" (26688 31000 899877 117000) ".mozilla/" "AIML/" ".config/" ".profile" ".zcompdump" ".dbclient/" ".sudo_as_admin_successful" ".password-store/" ".gitconfig" ".python_history" ".zshenv" "MAD/" "../" ".gtkrc-2.0" ".docker/" "SelfEd/" "Изображения/" ".fonts/" ".spoofdpi/" "Видео/" "Шаблоны/" ".vscode/" ".zcompdump-nikonoff-NMH-WDX9-5.8.1" ".p10k.zsh" ".themes/" "Загрузки/" "Музыка/" "Рабочий стол/" ".gtkrc-xfce" ".xinputrc" ".xsession-errors" "Общедоступные/" ".bashrc" ".gnupg/" "lightfm_data/" "CS2/" ".zshrc" "eltex_course/" "dotfiles/" ".keras/" ".lesshst" ".xsession-errors.old" ".ssh/" ".oh-my-zsh/" ".linuxmint/" ".local/" "Документы/" ".zcompdump-nikonoff-NMH-WDX9-5.8.1.zwc" ".emacs.d/" ".icons/" ".zshrc.bak" ".bash_logout" ".cargo/" ".zsh_history" ".dotnet/" ".bash_history" "eltex/" ".wget-hsts" ".dmrc" ".shell.pre-oh-my-zsh" ".cache/" ".pki/" "./" "DF/" ".rustup/" ".Xauthority")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
