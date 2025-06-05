@@ -14,7 +14,7 @@
  '(inhibit-startup-screen t)
  '(ispell-dictionary nil)
  '(package-selected-packages
-   '(helm-ag move-text ido-completing-read+ multiple-cursors smex magit use-package cmake-mode gruber-darker-theme gnu-elpa-keyring-update)))
+   '(move-text ido-completing-read+ multiple-cursors smex magit use-package cmake-mode gruber-darker-theme gnu-elpa-keyring-update)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

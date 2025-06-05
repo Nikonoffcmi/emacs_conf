@@ -4,34 +4,34 @@
 (
  ("/home/nikonoff/eltex_course/" . "module3/")
  ("/home/nikonoff/AIML/" . "3/")
- ("/home/nikonoff/" . "eltex_course/")
+ ("/home/nikonoff/" . ".emacs.d/")
  ("/home/" . "nikonoff/")
  ("/" . "home/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/nikonoff/eltex_course/module3/"
  "/home/nikonoff/.emacs.d/"
+ "/home/nikonoff/eltex_course/module3/"
  "/home/nikonoff/AIML/3/"
  "/home/nikonoff/AIML/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "02.c"
  "init.el"
+ "02.c"
  ".gitignore"
  "firs.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/nikonoff/.emacs.d/" (26689 6195 842327 336000) "init.el" ".gitignore" "../" "elpa/" ".mc-lists.el" ".emacs.local/" "tmp/" "auto-save-list/" "transient/" ".emacs.custom.el" "smex-items" ".git/" "ido.last" "./")
+
  ("/home/nikonoff/eltex_course/module3/" (26688 15950 893995 434000) "16/" "../" "10.c" "06/" "04.c" "15/" "2/" "18/" "14/" "05.c" "13.c" "11.c" "12.c" "07/" "03/" "17/" "div.c" "02.c" "09.c" "01.c" "./" "08.c")
 
  ("/home/nikonoff/eltex_course/" (26688 23423 775164 279000) ".gitignore" "../" "module2/" "module3/" "module4/" ".git/" "module5/" "module1/" "./")
-
- ("/home/nikonoff/.emacs.d/" (26689 5807 571460 421000) "init.el" ".gitignore" "../" "elpa/" ".mc-lists.el" ".emacs.local/" "tmp/" "auto-save-list/" "transient/" ".emacs.custom.el" "smex-items" ".git/" "ido.last" "./")
 
  ("/home/nikonoff/" (26689 4374 245278 722000) ".mozilla/" "AIML/" ".config/" ".profile" ".zcompdump" ".dbclient/" ".sudo_as_admin_successful" ".password-store/" ".gitconfig" ".python_history" ".zshenv" "MAD/" "../" ".gtkrc-2.0" ".docker/" "SelfEd/" "Изображения/" ".fonts/" ".spoofdpi/" "Видео/" "Шаблоны/" ".vscode/" ".zcompdump-nikonoff-NMH-WDX9-5.8.1" ".p10k.zsh" ".themes/" "Загрузки/" "Музыка/" "Рабочий стол/" ".gtkrc-xfce" ".xinputrc" ".xsession-errors" "Общедоступные/" ".bashrc" ".gnupg/" "lightfm_data/" "CS2/" ".zshrc" "eltex_course/" "dotfiles/" ".keras/" ".lesshst" ".xsession-errors.old" ".ssh/" ".oh-my-zsh/" ".linuxmint/" ".local/" "Документы/" ".zcompdump-nikonoff-NMH-WDX9-5.8.1.zwc" ".emacs.d/" ".icons/" ".zshrc.bak" ".bash_logout" ".cargo/" ".zsh_history" ".dotnet/" ".bash_history" "eltex/" ".wget-hsts" ".dmrc" ".shell.pre-oh-my-zsh" ".cache/" ".pki/" "./" "DF/" ".rustup/" ".Xauthority")
 

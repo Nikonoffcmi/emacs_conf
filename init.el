@@ -21,7 +21,7 @@
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
 (global-display-line-numbers-mode)
-
+(delete-selection-mode 1)
 (ido-mode 1)
 (ido-everywhere 1)
 ;(ido-ubiquitous-mode 1)
@@ -75,7 +75,5 @@
 (global-set-key [M-up] 'move-text-up)
 (global-set-key [M-down] 'move-text-down)
 
-(use-package helm-ag
-  :ensure t)
-
-(require 'helm-ag)
+(add-to-list 'load-path "~/.emacs.d/iedit")
+(require 'iedit)

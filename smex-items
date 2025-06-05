@@ -1,10 +1,10 @@
 
 ;; ----- smex-history -----
 (
+ package-list-packages
  helm-do-ag
  helm-ag
  list-packages
- package-list-packages
  cd
  5x5
  arp
@@ -14,7 +14,7 @@
 (
  (cd . 1)
  (list-packages . 6)
- (package-list-packages . 1)
+ (package-list-packages . 2)
  (helm-ag . 4)
- (helm-do-ag . 1)
+ (helm-do-ag . 3)
 )
