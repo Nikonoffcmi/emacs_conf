@@ -1,17 +1,20 @@
 
 ;; ----- smex-history -----
 (
+ helm-do-ag
+ helm-ag
  list-packages
+ package-list-packages
  cd
  5x5
  arp
- dbx
- dig
- erc
 )
 
 ;; ----- smex-data -----
 (
  (cd . 1)
- (list-packages . 3)
+ (list-packages . 6)
+ (package-list-packages . 1)
+ (helm-ag . 4)
+ (helm-do-ag . 1)
 )

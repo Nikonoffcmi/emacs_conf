@@ -66,3 +66,16 @@
     (forward-char column)))
 
 (global-set-key (kbd "C-,") 'duplicate-line)
+
+
+(use-package move-text
+  :ensure t)
+
+(require 'move-text)
+(global-set-key [M-up] 'move-text-up)
+(global-set-key [M-down] 'move-text-down)
+
+(use-package helm-ag
+  :ensure t)
+
+(require 'helm-ag)
