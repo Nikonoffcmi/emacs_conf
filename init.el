@@ -77,3 +77,9 @@
 
 (add-to-list 'load-path "~/.emacs.d/iedit")
 (require 'iedit)
+
+(defun revert-buffer-no-confirm ()
+    "Revert buffer without confirmation."
+    (interactive)
+    (revert-buffer :ignore-auto :noconfirm))
+'rerevert-buffer-no-confirm

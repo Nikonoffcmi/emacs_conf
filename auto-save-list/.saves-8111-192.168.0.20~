@@ -1,0 +1,14 @@
+/home/Nikonoff/projects/tetris/src/server/ServerNet.c
+/home/Nikonoff/projects/tetris/src/server/#ServerNet.c#
+/home/Nikonoff/projects/tetris/src/client/ClientNet.c
+/home/Nikonoff/projects/tetris/src/client/#ClientNet.c#
+/home/Nikonoff/projects/tetris/src/client/GUI.c
+/home/Nikonoff/projects/tetris/src/client/#GUI.c#
+/home/Nikonoff/projects/tetris/src/client/GUI.h
+/home/Nikonoff/projects/tetris/src/client/#GUI.h#
+/home/Nikonoff/projects/tetris/src/client/ClientNet.h
+/home/Nikonoff/projects/tetris/src/client/#ClientNet.h#
+/home/Nikonoff/projects/tetris/src/shared/NetworkMessage.h
+/home/Nikonoff/projects/tetris/src/shared/#NetworkMessage.h#
+/home/Nikonoff/projects/tetris/src/client/ClientMain.c
+/home/Nikonoff/projects/tetris/src/client/#ClientMain.c#

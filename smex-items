@@ -1,9 +1,9 @@
 
 ;; ----- smex-history -----
 (
+ revert-buffer
+ man
  package-list-packages
- helm-do-ag
- helm-ag
  list-packages
  cd
  5x5
@@ -17,4 +17,6 @@
  (package-list-packages . 2)
  (helm-ag . 4)
  (helm-do-ag . 3)
+ (revert-buffer . 6)
+ (man . 3)
 )
